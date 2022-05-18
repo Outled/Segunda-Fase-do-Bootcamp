@@ -1,0 +1,38 @@
+<!DOCTYBE html>
+<htmal>
+    <head>
+    <meta charset ="utf-8">
+    <title>Wemerson Vieira</title>
+    </head>
+    <body>
+    <header>
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.soaresdev.com%2Fguia-rapido-html-iniciante%2F&psig=AOvVaw3Mm4DtyUEYyHUyHQihlcM5&ust=1652929319178000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCKCLuOCH6PcCFQAAAAAdAAAAABAJ" alt="Inlustração ao site">
+      <hi>Wemerson Vieira</hi>
+    </header>
+    <section>
+      <header>
+        <h2>Post</h2>
+      </header>
+      <articie>
+        <head>
+        <h3>Post #1</h3>
+        </head>
+        <p>
+        HTML (Hypertext Markup Language)<a href="https://github.com/Outled"target="_blanck">consectetur adipiscing</a> language was developed
+        to supply the need to display scientific documents provided by an Internet network. For
+        terms of comparison, it is as if the Web was developed to display monographs written and
+        formatted by the ABNT Scientific Work Methodology. However, with time and the evolution of
+        Web and its commercial potential, it became necessary to display information with great wealth
+        of graphic and interaction elements. Obrigado DIO cada dia aprendendendo um pouco mas...
+        </p>
+      </articie>
+    </section>
+    <footer>
+      <ul>
+      <a href="wemersonvieiraa@gmail.com">wemersonvieiraa@gmail.com</a>
+      <li>
+      </li>
+      </ul>
+    </footer>
+    </body>
+</htmal>
